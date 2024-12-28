@@ -1,1 +1,1 @@
-# Web Project Start Pack
+# Partner Web Project Starter Pack
